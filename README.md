@@ -57,7 +57,7 @@ Source: https://www.netbeheernederland.nl/sites/default/files/2024-02/dsmr_5.0.2
 
 ### Note: Pullup on Pin 2
 
-As mentioned in the [https://github.com/UtilitechAS/amsreader-firmware/issues/1198#issuecomment-4925876283](docs)
+As mentioned in the [ticket](https://github.com/UtilitechAS/amsreader-firmware/issues/1198#issuecomment-4925876283)
 
 > Pin2: [The DSMR P1 Companion Standard](https://www.netbeheernederland.nl/sites/default/files/2024-02/dsmr_5.0.2_p1_companion_standard.pdf) 
 > (see paragraph 5.7.1) says it should be set to >= 4.0 V.
