@@ -76,8 +76,26 @@ As mentioned in the [ticket](https://github.com/UtilitechAS/amsreader-firmware/i
 
 **Note:** To me that part was really easy, so I am not sure what to write here.
 
+## Case
+
+I have found a nice case for ESP32 module with antenna.
+
+https://makerworld.com/pl/models/2540084-esp-smart-home-case-parametric-antenna
+
+I have made some room around the board to fit my clumsy wiring, so I have used the following parameters:
+- 28.8
+- 48.8
+- 1.6
+- 13
+- 10
+- 10
+- 28
+- 1
+
 ## Photos
 
-Coming up
+![front](photos/front.jpg)
+![back](photos/back.jpg)
+![inside](photos/inside.jpg)
 
 
